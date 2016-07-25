@@ -1,0 +1,11 @@
+2016-07-22 19:08:04 DEBUG Swagger2SpringBoot:30 - Start the API
+2016-07-22 19:08:15 INFO  ENGINE:? - checkpointClose start
+2016-07-22 19:08:15 INFO  ENGINE:? - checkpointClose synched
+2016-07-22 19:08:15 INFO  ENGINE:? - checkpointClose script done
+2016-07-22 19:08:15 INFO  ENGINE:? - checkpointClose end
+2016-07-22 19:08:19 DEBUG Swagger2SpringBoot:32 - API started
+2016-07-22 19:10:37 DEBUG Swagger2SpringBoot:30 - Start the API
+2016-07-22 19:10:52 DEBUG Swagger2SpringBoot:32 - API started
+2016-07-22 19:11:01 DEBUG CategoryApi:41 - search a category
+2016-07-22 19:11:01 INFO  CategoryApi:42 - info
+2016-07-22 19:11:01 ERROR CategoryApi:43 - erprr

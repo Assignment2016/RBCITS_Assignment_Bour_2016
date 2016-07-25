@@ -1,0 +1,197 @@
+2016-07-24 10:58:52 INFO  ENGINE:? - checkpointClose synched
+2016-07-24 10:58:52 INFO  ENGINE:? - checkpointClose script done
+2016-07-24 10:58:52 INFO  ENGINE:? - checkpointClose end
+2016-07-24 10:59:00 INFO  PetApi:72 - delete Pet
+2016-07-24 10:59:00 INFO  PetApi:75 - delete successful
+2016-07-24 10:59:00 INFO  PetApi:109 - create a pet:
+2016-07-24 10:59:00 INFO  PetApi:110 - make:A second make
+2016-07-24 10:59:00 INFO  PetApi:111 - categoryId:110
+2016-07-24 10:59:00 INFO  PetApi:112 - url:A second Url
+2016-07-24 10:59:00 INFO  PetApi:113 - description:A second description API
+2016-07-24 10:59:00 INFO  PetApi:114 - price:100
+2016-07-24 10:59:00 INFO  PetApi:124 - pet inserted
+2016-07-24 10:59:01 INFO  PetApi:72 - delete Pet
+2016-07-24 10:59:01 INFO  PetApi:75 - delete successful
+2016-07-24 10:59:01 INFO  PetApi:109 - create a pet:
+2016-07-24 10:59:01 INFO  PetApi:110 - make:A third make
+2016-07-24 10:59:01 INFO  PetApi:111 - categoryId:112
+2016-07-24 10:59:01 INFO  PetApi:112 - url:A third Url
+2016-07-24 10:59:01 INFO  PetApi:113 - description:A third description API
+2016-07-24 10:59:01 INFO  PetApi:114 - price:100
+2016-07-24 10:59:01 INFO  PetApi:124 - pet inserted
+2016-07-24 10:59:01 INFO  PetApi:47 - find pets112
+2016-07-24 10:59:01 INFO  PetApi:56 - pet list size: 4
+2016-07-24 10:59:05 INFO  CategoryApi:39 - retrieve all categories
+2016-07-24 10:59:05 INFO  CategoryApi:41 - all categories retrieved3
+2016-07-24 10:59:42 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-07-24 10:59:55 INFO  ENGINE:? - checkpointClose start
+2016-07-24 10:59:55 INFO  ENGINE:? - checkpointClose synched
+2016-07-24 10:59:55 INFO  ENGINE:? - checkpointClose script done
+2016-07-24 10:59:55 INFO  ENGINE:? - checkpointClose end
+2016-07-24 11:00:22 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-07-24 11:00:36 DEBUG Swagger2SpringBoot:35 - API started
+2016-07-24 11:01:03 INFO  CategoryApi:39 - retrieve all categories
+2016-07-24 11:01:03 INFO  CategoryApi:41 - all categories retrieved4
+2016-07-24 11:01:03 INFO  PetApi:47 - find pets0
+2016-07-24 11:01:03 INFO  PetApi:56 - pet list size: 7
+2016-07-24 11:01:08 INFO  PetApi:109 - create a pet:
+2016-07-24 11:01:08 INFO  PetApi:110 - make:sdf
+2016-07-24 11:01:08 INFO  PetApi:111 - categoryId:0
+2016-07-24 11:01:08 INFO  PetApi:112 - url:sdf
+2016-07-24 11:01:08 INFO  PetApi:113 - description:sfd
+2016-07-24 11:01:08 INFO  PetApi:114 - price:56
+2016-07-24 11:01:08 INFO  PetApi:47 - find pets0
+2016-07-24 11:01:08 INFO  PetApi:56 - pet list size: 7
+2016-07-24 11:01:08 INFO  PetApi:124 - pet inserted
+2016-07-24 11:01:14 INFO  PetApi:47 - find pets0
+2016-07-24 11:01:14 INFO  PetApi:56 - pet list size: 8
+2016-07-24 11:01:17 INFO  PetApi:47 - find pets1
+2016-07-24 11:01:17 INFO  PetApi:56 - pet list size: 6
+2016-07-24 11:01:23 INFO  PetApi:109 - create a pet:
+2016-07-24 11:01:23 INFO  PetApi:110 - make:test
+2016-07-24 11:01:23 INFO  PetApi:111 - categoryId:1
+2016-07-24 11:01:23 INFO  PetApi:112 - url:test
+2016-07-24 11:01:23 INFO  PetApi:113 - description:test
+2016-07-24 11:01:23 INFO  PetApi:114 - price:1
+2016-07-24 11:01:23 INFO  PetApi:124 - pet inserted
+2016-07-24 11:01:23 INFO  PetApi:47 - find pets1
+2016-07-24 11:01:23 INFO  PetApi:56 - pet list size: 7
+2016-07-24 11:01:25 INFO  PetApi:47 - find pets1
+2016-07-24 11:01:25 INFO  PetApi:56 - pet list size: 7
+2016-07-24 11:01:26 INFO  PetApi:47 - find pets2
+2016-07-24 11:01:26 INFO  PetApi:56 - pet list size: 5
+2016-07-24 11:01:28 INFO  PetApi:47 - find pets3
+2016-07-24 11:01:28 INFO  PetApi:56 - pet list size: 5
+2016-07-24 11:01:30 INFO  PetApi:72 - delete Pet
+2016-07-24 11:01:30 INFO  PetApi:75 - delete successful
+2016-07-24 12:03:13 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-07-24 12:03:28 INFO  ENGINE:? - checkpointClose start
+2016-07-24 12:03:28 INFO  ENGINE:? - checkpointClose synched
+2016-07-24 12:03:28 INFO  ENGINE:? - checkpointClose script done
+2016-07-24 12:03:28 INFO  ENGINE:? - checkpointClose end
+2016-07-24 12:03:33 DEBUG Swagger2SpringBoot:35 - API started
+2016-07-24 12:03:54 INFO  CategoryApi:39 - retrieve all categories
+2016-07-24 12:03:54 INFO  PetApi:47 - find pets0
+2016-07-24 12:03:54 INFO  CategoryApi:41 - all categories retrieved4
+2016-07-24 12:03:54 INFO  PetApi:56 - pet list size: 8
+2016-07-24 12:04:12 INFO  CategoryApi:39 - retrieve all categories
+2016-07-24 12:04:12 INFO  CategoryApi:41 - all categories retrieved4
+2016-07-24 12:04:12 INFO  PetApi:47 - find pets0
+2016-07-24 12:04:12 INFO  PetApi:56 - pet list size: 8
+2016-07-24 13:43:27 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-07-24 13:43:38 INFO  ENGINE:? - checkpointClose start
+2016-07-24 13:43:38 INFO  ENGINE:? - checkpointClose synched
+2016-07-24 13:43:38 INFO  ENGINE:? - checkpointClose script done
+2016-07-24 13:43:38 INFO  ENGINE:? - checkpointClose end
+2016-07-24 13:43:43 DEBUG Swagger2SpringBoot:35 - API started
+2016-07-24 13:43:59 INFO  CategoryApi:39 - retrieve all categories
+2016-07-24 13:43:59 INFO  PetApi:47 - find pets0
+2016-07-24 13:43:59 INFO  CategoryApi:41 - all categories retrieved4
+2016-07-24 13:43:59 INFO  PetApi:56 - pet list size: 8
+2016-07-24 13:44:02 INFO  PetApi:47 - find pets0
+2016-07-24 13:44:02 INFO  PetApi:56 - pet list size: 8
+2016-07-24 13:44:35 INFO  PetApi:47 - find pets0
+2016-07-24 13:44:35 INFO  PetApi:56 - pet list size: 8
+2016-07-24 13:44:44 INFO  PetApi:47 - find pets0
+2016-07-24 13:44:44 INFO  PetApi:56 - pet list size: 8
+2016-07-24 13:44:49 INFO  PetApi:47 - find pets2
+2016-07-24 13:44:49 INFO  PetApi:56 - pet list size: 5
+2016-07-24 13:47:49 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-07-24 13:48:02 INFO  ENGINE:? - checkpointClose start
+2016-07-24 13:48:02 INFO  ENGINE:? - checkpointClose synched
+2016-07-24 13:48:02 INFO  ENGINE:? - checkpointClose script done
+2016-07-24 13:48:02 INFO  ENGINE:? - checkpointClose end
+2016-07-24 13:48:09 DEBUG Swagger2SpringBoot:35 - API started
+2016-07-24 13:48:24 INFO  PetApi:46 - find pets2
+2016-07-24 13:48:24 INFO  PetApi:55 - pet list size: 5
+2016-07-24 13:48:34 INFO  PetApi:106 - create a pet:
+2016-07-24 13:48:34 INFO  PetApi:107 - make:df
+2016-07-24 13:48:34 INFO  PetApi:108 - categoryId:2
+2016-07-24 13:48:34 INFO  PetApi:109 - url:df
+2016-07-24 13:48:34 INFO  PetApi:110 - description:dfd
+2016-07-24 13:48:34 INFO  PetApi:111 - price:5
+2016-07-24 13:48:34 INFO  PetApi:46 - find pets2
+2016-07-24 13:48:34 INFO  PetApi:55 - pet list size: 5
+2016-07-24 13:48:34 INFO  PetApi:121 - pet inserted
+2016-07-24 13:48:45 INFO  PetApi:106 - create a pet:
+2016-07-24 13:48:45 INFO  PetApi:107 - make:df
+2016-07-24 13:48:45 INFO  PetApi:108 - categoryId:2
+2016-07-24 13:48:45 INFO  PetApi:109 - url:df
+2016-07-24 13:48:45 INFO  PetApi:110 - description:df
+2016-07-24 13:48:45 INFO  PetApi:111 - price:8
+2016-07-24 13:48:45 INFO  PetApi:121 - pet inserted
+2016-07-24 13:48:45 INFO  PetApi:46 - find pets2
+2016-07-24 13:48:45 INFO  PetApi:55 - pet list size: 7
+2016-07-24 13:48:51 INFO  PetApi:70 - delete Pet
+2016-07-24 13:48:51 INFO  PetApi:73 - delete successful
+2016-07-24 19:59:28 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-07-24 20:01:48 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-07-24 20:04:51 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-07-24 20:06:30 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-07-24 20:14:41 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-07-24 20:15:02 INFO  ENGINE:? - checkpointClose start
+2016-07-24 20:15:02 INFO  ENGINE:? - checkpointClose synched
+2016-07-24 20:15:02 INFO  ENGINE:? - checkpointClose script done
+2016-07-24 20:15:02 INFO  ENGINE:? - checkpointClose end
+2016-07-24 20:15:12 DEBUG Swagger2SpringBoot:35 - API started
+2016-07-24 20:15:51 INFO  CategoryApi:39 - retrieve all categories
+2016-07-24 20:15:51 INFO  CategoryApi:41 - all categories retrieved4
+2016-07-24 20:15:51 INFO  PetApi:46 - find pets0
+2016-07-24 20:15:51 INFO  PetApi:55 - pet list size: 8
+2016-07-24 20:15:53 INFO  PetApi:46 - find pets1
+2016-07-24 20:15:53 INFO  PetApi:55 - pet list size: 7
+2016-07-24 20:15:54 INFO  PetApi:46 - find pets2
+2016-07-24 20:15:54 INFO  PetApi:55 - pet list size: 6
+2016-07-24 20:15:55 INFO  PetApi:46 - find pets3
+2016-07-24 20:15:55 INFO  PetApi:55 - pet list size: 4
+2016-07-24 20:16:02 INFO  PetApi:106 - create a pet:
+2016-07-24 20:16:02 INFO  PetApi:107 - make:df
+2016-07-24 20:16:02 INFO  PetApi:108 - categoryId:3
+2016-07-24 20:16:02 INFO  PetApi:109 - url:df
+2016-07-24 20:16:02 INFO  PetApi:110 - description:df
+2016-07-24 20:16:02 INFO  PetApi:111 - price:5
+2016-07-24 20:16:02 INFO  PetApi:46 - find pets3
+2016-07-24 20:16:02 INFO  PetApi:55 - pet list size: 4
+2016-07-24 20:16:02 INFO  PetApi:121 - pet inserted
+2016-07-24 20:16:04 INFO  PetApi:70 - delete Pet
+2016-07-24 20:16:04 INFO  PetApi:73 - delete successful
+2016-07-24 20:36:37 INFO  ENGINE:? - checkpointClose start
+2016-07-24 20:36:37 INFO  ENGINE:? - checkpointClose synched
+2016-07-24 20:36:37 INFO  ENGINE:? - checkpointClose script done
+2016-07-24 20:36:37 INFO  ENGINE:? - checkpointClose end
+2016-07-24 20:40:03 INFO  ENGINE:? - checkpointClose start
+2016-07-24 20:40:03 INFO  ENGINE:? - checkpointClose synched
+2016-07-24 20:40:03 INFO  ENGINE:? - checkpointClose script done
+2016-07-24 20:40:03 INFO  ENGINE:? - checkpointClose end
+2016-07-24 20:46:29 INFO  ENGINE:? - checkpointClose start
+2016-07-24 20:46:29 INFO  ENGINE:? - checkpointClose synched
+2016-07-24 20:46:29 INFO  ENGINE:? - checkpointClose script done
+2016-07-24 20:46:29 INFO  ENGINE:? - checkpointClose end
+2016-07-24 20:46:42 INFO  PetApi:70 - delete Pet
+2016-07-24 20:46:42 INFO  PetApi:73 - delete successful
+2016-07-24 20:46:42 INFO  PetApi:106 - create a pet:
+2016-07-24 20:46:42 INFO  PetApi:107 - make:A second make
+2016-07-24 20:46:42 INFO  PetApi:108 - categoryId:134
+2016-07-24 20:46:42 INFO  PetApi:109 - url:A second Url
+2016-07-24 20:46:42 INFO  PetApi:110 - description:A second description API
+2016-07-24 20:46:42 INFO  PetApi:111 - price:100
+2016-07-24 20:46:42 INFO  PetApi:121 - pet inserted
+2016-07-24 20:46:43 INFO  PetApi:70 - delete Pet
+2016-07-24 20:46:43 INFO  PetApi:73 - delete successful
+2016-07-24 20:46:43 INFO  PetApi:106 - create a pet:
+2016-07-24 20:46:43 INFO  PetApi:107 - make:A third make
+2016-07-24 20:46:43 INFO  PetApi:108 - categoryId:136
+2016-07-24 20:46:43 INFO  PetApi:109 - url:A third Url
+2016-07-24 20:46:43 INFO  PetApi:110 - description:A third description API
+2016-07-24 20:46:43 INFO  PetApi:111 - price:100
+2016-07-24 20:46:43 INFO  PetApi:121 - pet inserted
+2016-07-24 20:46:43 INFO  PetApi:46 - find pets136
+2016-07-24 20:46:43 INFO  PetApi:55 - pet list size: 4
+2016-07-24 20:46:49 INFO  CategoryApi:39 - retrieve all categories
+2016-07-24 20:46:49 INFO  CategoryApi:41 - all categories retrieved3
+2016-07-24 22:52:47 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-07-24 22:53:07 INFO  ENGINE:? - checkpointClose start
+2016-07-24 22:53:07 INFO  ENGINE:? - checkpointClose synched
+2016-07-24 22:53:07 INFO  ENGINE:? - checkpointClose script done
+2016-07-24 22:53:07 INFO  ENGINE:? - checkpointClose end
+2016-07-24 22:53:18 DEBUG Swagger2SpringBoot:35 - API started
