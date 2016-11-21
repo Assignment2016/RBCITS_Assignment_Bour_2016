@@ -195,3 +195,408 @@
 2016-07-24 22:53:07 INFO  ENGINE:? - checkpointClose script done
 2016-07-24 22:53:07 INFO  ENGINE:? - checkpointClose end
 2016-07-24 22:53:18 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-02 16:08:14 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-02 16:08:28 INFO  ENGINE:? - checkpointClose start
+2016-11-02 16:08:28 INFO  ENGINE:? - checkpointClose synched
+2016-11-02 16:08:28 INFO  ENGINE:? - checkpointClose script done
+2016-11-02 16:08:28 INFO  ENGINE:? - checkpointClose end
+2016-11-02 16:09:40 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-02 16:09:59 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-02 16:13:42 INFO  CategoryApi:39 - retrieve all categories
+2016-11-02 16:13:42 INFO  PetApi:46 - find pets0
+2016-11-02 16:13:42 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-02 16:13:42 INFO  PetApi:55 - pet list size: 8
+2016-11-02 16:14:15 INFO  PetApi:46 - find pets0
+2016-11-02 16:14:15 INFO  PetApi:55 - pet list size: 8
+2016-11-02 16:14:18 INFO  PetApi:46 - find pets0
+2016-11-02 16:14:18 INFO  PetApi:55 - pet list size: 8
+2016-11-02 16:14:23 INFO  PetApi:46 - find pets1
+2016-11-02 16:14:23 INFO  PetApi:55 - pet list size: 7
+2016-11-02 16:14:24 INFO  PetApi:46 - find pets2
+2016-11-02 16:14:24 INFO  PetApi:55 - pet list size: 6
+2016-11-02 16:14:26 INFO  PetApi:46 - find pets3
+2016-11-02 16:14:26 INFO  PetApi:55 - pet list size: 4
+2016-11-02 16:14:28 INFO  PetApi:46 - find pets0
+2016-11-02 16:14:28 INFO  PetApi:55 - pet list size: 8
+2016-11-02 16:14:29 INFO  PetApi:46 - find pets1
+2016-11-02 16:14:29 INFO  PetApi:55 - pet list size: 7
+2016-11-02 16:15:05 INFO  PetApi:46 - find pets1
+2016-11-02 16:15:05 INFO  PetApi:55 - pet list size: 7
+2016-11-02 16:15:06 INFO  PetApi:46 - find pets2
+2016-11-02 16:15:06 INFO  PetApi:55 - pet list size: 6
+2016-11-02 16:15:07 INFO  PetApi:46 - find pets3
+2016-11-02 16:15:07 INFO  PetApi:55 - pet list size: 4
+2016-11-02 16:15:09 INFO  PetApi:46 - find pets0
+2016-11-02 16:15:09 INFO  PetApi:55 - pet list size: 8
+2016-11-02 16:16:01 INFO  PetApi:46 - find pets0
+2016-11-02 16:16:01 INFO  PetApi:55 - pet list size: 8
+2016-11-02 16:16:01 INFO  PetApi:46 - find pets1
+2016-11-02 16:16:01 INFO  PetApi:55 - pet list size: 7
+2016-11-02 16:16:02 INFO  PetApi:46 - find pets2
+2016-11-02 16:16:02 INFO  PetApi:55 - pet list size: 6
+2016-11-02 16:16:03 INFO  PetApi:46 - find pets3
+2016-11-02 16:16:03 INFO  PetApi:55 - pet list size: 4
+2016-11-02 16:16:04 INFO  PetApi:46 - find pets2
+2016-11-02 16:16:04 INFO  PetApi:55 - pet list size: 6
+2016-11-02 16:16:05 INFO  PetApi:46 - find pets1
+2016-11-02 16:16:05 INFO  PetApi:55 - pet list size: 7
+2016-11-02 16:16:06 INFO  PetApi:46 - find pets0
+2016-11-02 16:16:06 INFO  PetApi:55 - pet list size: 8
+2016-11-02 16:16:11 INFO  PetApi:46 - find pets0
+2016-11-02 16:16:11 INFO  PetApi:55 - pet list size: 8
+2016-11-02 16:43:25 INFO  CategoryApi:39 - retrieve all categories
+2016-11-02 16:43:25 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-02 16:43:25 INFO  PetApi:46 - find pets0
+2016-11-02 16:43:25 INFO  PetApi:55 - pet list size: 8
+2016-11-02 16:43:29 INFO  PetApi:46 - find pets0
+2016-11-02 16:43:29 INFO  PetApi:55 - pet list size: 8
+2016-11-02 16:43:30 INFO  PetApi:46 - find pets0
+2016-11-02 16:43:30 INFO  PetApi:55 - pet list size: 8
+2016-11-02 16:43:32 INFO  PetApi:46 - find pets1
+2016-11-02 16:43:32 INFO  PetApi:55 - pet list size: 7
+2016-11-02 16:43:39 INFO  CategoryApi:39 - retrieve all categories
+2016-11-02 16:43:39 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-02 16:43:39 INFO  PetApi:46 - find pets0
+2016-11-02 16:43:39 INFO  PetApi:55 - pet list size: 8
+2016-11-02 17:01:51 INFO  CategoryApi:39 - retrieve all categories
+2016-11-02 17:01:51 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-02 17:01:51 INFO  PetApi:46 - find pets0
+2016-11-02 17:01:51 INFO  PetApi:55 - pet list size: 8
+2016-11-02 22:52:16 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-02 22:52:35 INFO  ENGINE:? - checkpointClose start
+2016-11-02 22:52:35 INFO  ENGINE:? - checkpointClose synched
+2016-11-02 22:52:35 INFO  ENGINE:? - checkpointClose script done
+2016-11-02 22:52:35 INFO  ENGINE:? - checkpointClose end
+2016-11-02 22:52:44 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-03 19:45:31 INFO  CategoryApi:39 - retrieve all categories
+2016-11-03 19:45:31 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-04 13:03:40 INFO  CategoryApi:39 - retrieve all categories
+2016-11-04 13:03:40 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-04 13:03:43 INFO  CategoryApi:39 - retrieve all categories
+2016-11-04 13:03:43 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-04 13:03:45 INFO  CategoryApi:39 - retrieve all categories
+2016-11-04 13:03:45 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-04 13:18:40 INFO  CategoryApi:39 - retrieve all categories
+2016-11-04 13:18:40 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-04 13:18:45 INFO  CategoryApi:39 - retrieve all categories
+2016-11-04 13:18:45 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 14:20:10 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 14:20:25 INFO  ENGINE:? - checkpointClose start
+2016-11-05 14:20:25 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 14:20:26 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 14:20:26 INFO  ENGINE:? - checkpointClose end
+2016-11-05 14:20:32 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 14:22:01 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 14:22:01 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 14:44:02 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 14:44:17 INFO  ENGINE:? - checkpointClose start
+2016-11-05 14:44:17 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 14:44:17 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 14:44:17 INFO  ENGINE:? - checkpointClose end
+2016-11-05 14:44:22 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 14:47:05 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 14:48:38 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 14:48:50 INFO  ENGINE:? - checkpointClose start
+2016-11-05 14:48:50 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 14:48:50 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 14:48:50 INFO  ENGINE:? - checkpointClose end
+2016-11-05 14:48:56 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 14:49:09 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 14:49:09 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 14:52:09 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 14:52:09 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 15:01:15 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 15:01:15 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 15:07:33 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 15:07:33 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 15:25:20 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 15:25:20 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 15:26:39 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 15:26:39 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 15:27:09 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 15:27:09 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 15:27:29 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 15:27:29 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 15:27:40 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 15:27:40 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 16:12:38 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 16:12:38 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 16:12:43 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 16:12:43 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 16:13:36 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 16:13:36 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 16:17:19 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 16:17:19 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 16:17:21 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 16:17:21 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 16:22:29 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 16:22:29 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 16:23:27 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 16:23:27 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 16:23:30 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 16:23:30 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:26:47 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:26:47 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:28:59 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:28:59 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:30:21 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:30:21 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:31:03 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:31:03 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:35:09 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:35:09 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:38:19 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:38:19 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:39:46 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:39:46 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:41:42 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 17:41:52 INFO  ENGINE:? - checkpointClose start
+2016-11-05 17:41:52 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 17:41:52 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 17:41:52 INFO  ENGINE:? - checkpointClose end
+2016-11-05 17:41:56 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 17:42:11 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:42:11 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:44:49 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 17:45:02 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 17:45:13 INFO  ENGINE:? - checkpointClose start
+2016-11-05 17:45:13 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 17:45:13 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 17:45:13 INFO  ENGINE:? - checkpointClose end
+2016-11-05 17:45:17 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 17:45:44 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:45:44 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:48:15 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 17:48:24 INFO  ENGINE:? - checkpointClose start
+2016-11-05 17:48:24 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 17:48:24 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 17:48:24 INFO  ENGINE:? - checkpointClose end
+2016-11-05 17:48:28 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 17:48:35 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:48:35 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:49:10 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 17:49:20 INFO  ENGINE:? - checkpointClose start
+2016-11-05 17:49:20 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 17:49:20 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 17:49:20 INFO  ENGINE:? - checkpointClose end
+2016-11-05 17:49:24 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 17:49:33 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:49:33 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:49:51 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 17:50:49 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 17:51:00 INFO  ENGINE:? - checkpointClose start
+2016-11-05 17:51:00 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 17:51:00 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 17:51:00 INFO  ENGINE:? - checkpointClose end
+2016-11-05 17:51:04 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 17:51:08 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:51:08 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:51:57 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:51:57 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:52:26 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:52:26 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:58:40 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 17:58:51 INFO  ENGINE:? - checkpointClose start
+2016-11-05 17:58:51 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 17:58:51 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 17:58:51 INFO  ENGINE:? - checkpointClose end
+2016-11-05 17:58:55 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 17:59:05 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 17:59:05 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 17:59:44 INFO  PetApi:47 - find pets1
+2016-11-05 17:59:44 INFO  PetApi:56 - pet list size: 7
+2016-11-05 18:01:05 INFO  PetApi:47 - find pets2
+2016-11-05 18:01:05 INFO  PetApi:56 - pet list size: 6
+2016-11-05 18:02:29 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:02:29 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:02:32 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:02:32 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:08:27 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 18:08:37 INFO  ENGINE:? - checkpointClose start
+2016-11-05 18:08:37 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 18:08:37 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 18:08:37 INFO  ENGINE:? - checkpointClose end
+2016-11-05 18:08:41 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 18:08:51 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:08:51 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:10:25 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 18:10:35 INFO  ENGINE:? - checkpointClose start
+2016-11-05 18:10:35 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 18:10:35 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 18:10:35 INFO  ENGINE:? - checkpointClose end
+2016-11-05 18:10:39 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 18:10:53 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:10:53 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:10:56 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:10:56 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:13:39 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 18:15:10 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 18:15:20 INFO  ENGINE:? - checkpointClose start
+2016-11-05 18:15:20 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 18:15:20 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 18:15:20 INFO  ENGINE:? - checkpointClose end
+2016-11-05 18:15:24 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 18:15:40 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:15:40 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:15:43 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:15:43 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:16:04 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:16:04 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:18:54 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-05 18:19:05 INFO  ENGINE:? - checkpointClose start
+2016-11-05 18:19:05 INFO  ENGINE:? - checkpointClose synched
+2016-11-05 18:19:05 INFO  ENGINE:? - checkpointClose script done
+2016-11-05 18:19:05 INFO  ENGINE:? - checkpointClose end
+2016-11-05 18:19:09 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-05 18:19:12 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:19:12 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:20:17 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:20:17 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:20:19 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:20:19 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:20:20 INFO  PetApi:47 - find pets1
+2016-11-05 18:20:20 INFO  PetApi:56 - pet list size: 7
+2016-11-05 18:22:11 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:22:11 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:22:13 INFO  PetApi:47 - find pets1
+2016-11-05 18:22:13 INFO  PetApi:56 - pet list size: 7
+2016-11-05 18:26:20 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:26:20 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:26:23 INFO  PetApi:47 - find pets1
+2016-11-05 18:26:23 INFO  PetApi:56 - pet list size: 7
+2016-11-05 18:30:09 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:30:09 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:30:12 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:30:12 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:35:53 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:35:53 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:40:32 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:40:32 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:40:34 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:40:34 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:40:35 INFO  PetApi:47 - find pets2
+2016-11-05 18:40:35 INFO  PetApi:56 - pet list size: 6
+2016-11-05 18:40:44 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:40:44 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:40:45 INFO  PetApi:47 - find pets0
+2016-11-05 18:40:45 INFO  PetApi:56 - pet list size: 8
+2016-11-05 18:40:47 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:40:47 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:40:48 INFO  PetApi:47 - find pets3
+2016-11-05 18:40:48 INFO  PetApi:56 - pet list size: 4
+2016-11-05 18:40:49 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:40:49 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-05 18:44:32 INFO  PetApi:47 - find pets0
+2016-11-05 18:44:32 INFO  PetApi:56 - pet list size: 8
+2016-11-05 18:44:34 INFO  CategoryApi:39 - retrieve all categories
+2016-11-05 18:44:34 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-06 10:29:10 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-06 10:29:24 INFO  ENGINE:? - checkpointClose start
+2016-11-06 10:29:24 INFO  ENGINE:? - checkpointClose synched
+2016-11-06 10:29:24 INFO  ENGINE:? - checkpointClose script done
+2016-11-06 10:29:24 INFO  ENGINE:? - checkpointClose end
+2016-11-06 10:29:31 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-06 10:30:20 INFO  CategoryApi:39 - retrieve all categories
+2016-11-06 10:30:20 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-06 20:49:16 INFO  CategoryApi:39 - retrieve all categories
+2016-11-06 20:49:25 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-06 20:50:42 INFO  CategoryApi:39 - retrieve all categories
+2016-11-06 20:50:42 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-06 22:43:07 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-06 22:43:24 INFO  ENGINE:? - checkpointClose start
+2016-11-06 22:43:24 INFO  ENGINE:? - checkpointClose synched
+2016-11-06 22:43:24 INFO  ENGINE:? - checkpointClose script done
+2016-11-06 22:43:24 INFO  ENGINE:? - checkpointClose end
+2016-11-06 22:43:32 DEBUG Swagger2SpringBoot:35 - API started
+2016-11-06 22:50:57 INFO  CategoryApi:39 - retrieve all categories
+2016-11-06 22:50:57 INFO  CategoryApi:41 - all categories retrieved4
+2016-11-21 17:43:21 INFO  ENGINE:? - checkpointClose start
+2016-11-21 17:43:21 INFO  ENGINE:? - checkpointClose synched
+2016-11-21 17:43:21 INFO  ENGINE:? - checkpointClose script done
+2016-11-21 17:43:21 INFO  ENGINE:? - checkpointClose end
+2016-11-21 17:43:31 INFO  CategoryApi:39 - retrieve all categories
+2016-11-21 17:43:31 INFO  CategoryApi:41 - all categories retrieved3
+2016-11-21 17:43:36 INFO  PetApi:70 - delete Pet
+2016-11-21 17:43:36 INFO  PetApi:73 - delete successful
+2016-11-21 17:43:36 INFO  PetApi:105 - create a pet:
+2016-11-21 17:43:36 INFO  PetApi:106 - make:A second make
+2016-11-21 17:43:36 INFO  PetApi:107 - categoryId:152
+2016-11-21 17:43:36 INFO  PetApi:108 - url:A second Url
+2016-11-21 17:43:36 INFO  PetApi:109 - description:A second description API
+2016-11-21 17:43:36 INFO  PetApi:110 - price:100
+2016-11-21 17:43:36 INFO  PetApi:120 - pet inserted
+2016-11-21 17:43:36 INFO  PetApi:70 - delete Pet
+2016-11-21 17:43:36 INFO  PetApi:73 - delete successful
+2016-11-21 17:43:36 INFO  PetApi:105 - create a pet:
+2016-11-21 17:43:36 INFO  PetApi:106 - make:A third make
+2016-11-21 17:43:36 INFO  PetApi:107 - categoryId:154
+2016-11-21 17:43:36 INFO  PetApi:108 - url:A third Url
+2016-11-21 17:43:36 INFO  PetApi:109 - description:A third description API
+2016-11-21 17:43:36 INFO  PetApi:110 - price:100
+2016-11-21 17:43:36 INFO  PetApi:120 - pet inserted
+2016-11-21 17:43:36 INFO  PetApi:47 - find pets154
+2016-11-21 17:43:36 INFO  PetApi:56 - pet list size: 4
+2016-11-21 17:47:39 INFO  ENGINE:? - checkpointClose start
+2016-11-21 17:47:39 INFO  ENGINE:? - checkpointClose synched
+2016-11-21 17:47:39 INFO  ENGINE:? - checkpointClose script done
+2016-11-21 17:47:39 INFO  ENGINE:? - checkpointClose end
+2016-11-21 17:47:52 INFO  CategoryApi:39 - retrieve all categories
+2016-11-21 17:47:52 INFO  CategoryApi:41 - all categories retrieved3
+2016-11-21 17:49:20 INFO  ENGINE:? - checkpointClose start
+2016-11-21 17:49:20 INFO  ENGINE:? - checkpointClose synched
+2016-11-21 17:49:20 INFO  ENGINE:? - checkpointClose script done
+2016-11-21 17:49:20 INFO  ENGINE:? - checkpointClose end
+2016-11-21 17:49:28 INFO  CategoryApi:39 - retrieve all categories
+2016-11-21 17:49:28 INFO  CategoryApi:41 - all categories retrieved3
+2016-11-21 17:49:31 INFO  PetApi:70 - delete Pet
+2016-11-21 17:49:31 INFO  PetApi:73 - delete successful
+2016-11-21 17:49:31 INFO  PetApi:105 - create a pet:
+2016-11-21 17:49:31 INFO  PetApi:106 - make:A second make
+2016-11-21 17:49:31 INFO  PetApi:107 - categoryId:167
+2016-11-21 17:49:31 INFO  PetApi:108 - url:A second Url
+2016-11-21 17:49:31 INFO  PetApi:109 - description:A second description API
+2016-11-21 17:49:31 INFO  PetApi:110 - price:100
+2016-11-21 17:49:31 INFO  PetApi:120 - pet inserted
+2016-11-21 17:49:31 INFO  PetApi:70 - delete Pet
+2016-11-21 17:49:31 INFO  PetApi:73 - delete successful
+2016-11-21 17:49:32 INFO  PetApi:105 - create a pet:
+2016-11-21 17:49:32 INFO  PetApi:106 - make:A third make
+2016-11-21 17:49:32 INFO  PetApi:107 - categoryId:169
+2016-11-21 17:49:32 INFO  PetApi:108 - url:A third Url
+2016-11-21 17:49:32 INFO  PetApi:109 - description:A third description API
+2016-11-21 17:49:32 INFO  PetApi:110 - price:100
+2016-11-21 17:49:32 INFO  PetApi:120 - pet inserted
+2016-11-21 17:49:32 INFO  PetApi:47 - find pets169
+2016-11-21 17:49:32 INFO  PetApi:56 - pet list size: 4
+2016-11-21 18:20:36 INFO  ENGINE:? - checkpointClose start
+2016-11-21 18:20:36 INFO  ENGINE:? - checkpointClose synched
+2016-11-21 18:20:36 INFO  ENGINE:? - checkpointClose script done
+2016-11-21 18:20:36 INFO  ENGINE:? - checkpointClose end
+2016-11-21 18:20:49 INFO  CategoryApi:39 - retrieve all categories
+2016-11-21 18:20:49 INFO  CategoryApi:41 - all categories retrieved3
+2016-11-21 18:20:52 INFO  PetApi:70 - delete Pet
+2016-11-21 18:20:53 INFO  PetApi:73 - delete successful
+2016-11-21 18:20:53 INFO  PetApi:105 - create a pet:
+2016-11-21 18:20:53 INFO  PetApi:106 - make:A second make
+2016-11-21 18:20:53 INFO  PetApi:107 - categoryId:179
+2016-11-21 18:20:53 INFO  PetApi:108 - url:A second Url
+2016-11-21 18:20:53 INFO  PetApi:109 - description:A second description API
+2016-11-21 18:20:53 INFO  PetApi:110 - price:100
+2016-11-21 18:20:53 INFO  PetApi:120 - pet inserted
+2016-11-21 18:20:53 INFO  PetApi:70 - delete Pet
+2016-11-21 18:20:53 INFO  PetApi:73 - delete successful
+2016-11-21 18:20:53 INFO  PetApi:105 - create a pet:
+2016-11-21 18:20:53 INFO  PetApi:106 - make:A third make
+2016-11-21 18:20:53 INFO  PetApi:107 - categoryId:181
+2016-11-21 18:20:53 INFO  PetApi:108 - url:A third Url
+2016-11-21 18:20:53 INFO  PetApi:109 - description:A third description API
+2016-11-21 18:20:53 INFO  PetApi:110 - price:100
+2016-11-21 18:20:53 INFO  PetApi:120 - pet inserted
+2016-11-21 18:20:53 INFO  PetApi:47 - find pets181
+2016-11-21 18:20:53 INFO  PetApi:56 - pet list size: 4
+2016-11-21 18:21:38 DEBUG Swagger2SpringBoot:33 - Start the API
+2016-11-21 18:21:51 INFO  ENGINE:? - checkpointClose start
+2016-11-21 18:21:51 INFO  ENGINE:? - checkpointClose synched
+2016-11-21 18:21:51 INFO  ENGINE:? - checkpointClose script done
+2016-11-21 18:21:51 INFO  ENGINE:? - checkpointClose end
+2016-11-21 18:21:55 DEBUG Swagger2SpringBoot:35 - API started

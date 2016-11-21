@@ -39,8 +39,9 @@ public class PetApi {
 	 * @throws Exception
 	 *             Should not happen
 	 */
+	//@ResponseBody
+
 	@RequestMapping(value = "/findPetCategoryById/{categoryId}", method = RequestMethod.GET)
-	@ResponseBody
 	public List<Pet> findPets(@PathVariable("categoryId") int categoryId) throws Exception {
 
 		logger.info("find pets" + categoryId);
@@ -65,7 +66,6 @@ public class PetApi {
 	 *             Should not happen
 	 */
 	@RequestMapping(value = "/deletePetById/{petId}", method = RequestMethod.DELETE)
-	@ResponseBody
 	public boolean deletePet(@PathVariable("petId") Long petId) throws Exception {
 		logger.info("delete Pet");
 		try {
@@ -98,7 +98,6 @@ public class PetApi {
 	 *             Should not happen :-)
 	 */
 	@RequestMapping(value = "/createPet/{make}/{categoryId}/{localUrl}/{description}/{price}", method = RequestMethod.POST)
-	@ResponseBody
 	public void createPet(@PathVariable("make") String make, @PathVariable("categoryId") long categoryId,
 			@PathVariable("localUrl") String url, @PathVariable("description") String description,
 			@PathVariable("price") Long price) throws Exception {
